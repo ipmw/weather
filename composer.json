@@ -1,0 +1,19 @@
+{
+    "name": "ipmw/weather",
+    "description": "a weather sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anson",
+            "email": "anson@ipmw.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ipmw\\Weather\\": "./src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
